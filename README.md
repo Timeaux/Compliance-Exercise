@@ -1,7 +1,7 @@
 
   # Unified Compliance Workspace
 
-  This is a code bundle for Unified Compliance Workspace. The original project is available at https://www.figma.com/design/tapAIPVGPAjIXaantsINRE/Unified-Compliance-Workspace.
+  This is a code bundle for Unified Compliance Workspace. 
 
   ## Running the code
 
